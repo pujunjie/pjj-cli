@@ -1,0 +1,23 @@
+{
+  "name": "pjj_create",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "pjj": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.2.1",
+    "download-git-repo": "^3.0.2",
+    "open": "^7.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.16"
+  }
+}
