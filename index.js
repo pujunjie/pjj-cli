@@ -5,7 +5,6 @@ const createCommands = require("./lib/core/create");
 
 // 查看版本
 program.version(require("./package.json").version);
-console.log(1)
 
 // 帮助和可选信息
 craeteHelpOptions();
